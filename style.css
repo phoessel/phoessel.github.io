@@ -1,15 +1,17 @@
 h1 {
 text-align: center;
-}
-h1 {
 color:blue;
+font-weight: bold;
 }
 ul.a {
     text-align: center;
+    font-weight: bold;
 }
 ul.b {
     text-align: center;
+    font-weight: bold;
 }
 ul.c {
     text-align: center;
+    font-weight: bold;
 }
