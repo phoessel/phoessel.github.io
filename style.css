@@ -7,17 +7,7 @@ hr.dotted {
     height:8px;
     border: 1px dotted gray;
 }
-ul.a {
-    text-align: center;
-    font-weight: bold;
-    list-style-type: none;
-}
-ul.b {
-    text-align: center;
-    font-weight: bold;
-    list-style-type: none;
-}
-ul.c {
+.contact_info {
     text-align: center;
     font-weight: bold;
     list-style-type: none;
