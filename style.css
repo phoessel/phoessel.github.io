@@ -10,5 +10,7 @@ hr.dotted {
 .contact_info {
     text-align: center;
     font-weight: bold;
-    list-style: none;
+    ul {
+        list-style-type: none;
+    }
 }
