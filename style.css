@@ -4,7 +4,7 @@ color:blue;
 font-weight: bold;
 }
 hr.dotted {
-    height:4px;
+    height:8px;
     border: 1px dotted gray;
 }
 ul.a {
